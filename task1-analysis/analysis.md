@@ -157,4 +157,4 @@
 2. Яндекс Маркет. *Partner API: Управление акциями и ценами*. — URL: https://www.yandex.ru/dev/market/partner-api/doc/ru/reference/promos/updatePromoOffers
 3. Яндекс Маркет. *Индекс качества на Маркете: на что влияет и как поддерживать*. — URL: https://partner.market.yandex.ru/chtojournal/start-on-marketplace_index-kachestva-na-market/
 4. Яндекс Маркет. *Правила упаковки товаров для маркетплейсов*. — URL: https://partner.market.yandex.ru/chtojournal/logistics-on-marketplaces_kak-upakovat-tovar-dlya-marketplejsa/
-5. Личное наблюдение / практический опыт использования сервиса Яндекс Маркет в качестве покупателя (2024–2026 гг.)
+5. Личное наблюдение / практический опыт использования сервиса Яндекс Маркет в качестве покупателя.
