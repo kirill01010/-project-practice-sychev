@@ -14,11 +14,11 @@
   - [Заметки по BPMN](task2-bpmn/notes_bpmn.md)
   - [Описание](task2-bpmn/description.md)
   - [Упражнения](task2-bpmn/exercise_bpmn/)
-- [Задание 3. IDEF0-диаграммы](#) — `task3-idef0/`
+- [Задание 3. IDEF0-диаграммы](task3-idef) — `task3-idef0/`
   - [Заметки по IDEF0](task3-idef0/notes_idef0.md)
   - [Описание](task3-idef0/description.md)
   - [Упражнения](task3-idef0/exercise_idef0/)
-- [Задание 4. Программирование на Python](#) — `task4-python/`
+- [Задание 4. Программирование на Python](task4-python) — `task4-python/`
   - [Модуль 1. ](task4-python/module1_basics.py)
   - [Модуль 2. ](task4-python/module2_conditions.py)
   - [Модуль 3. ](task4-python/module3_functions.py)
