@@ -10,7 +10,7 @@
 ## Структура репозитория
 
 - [Задание 1. Анализ](task1-analysis) — `task1-analysis/analysis.md`
-- [ООО "Яндекс маркет"](task1-analysis/analysis.md)
+- [ООО "Яндекс Маркет"](task1-analysis/analysis.md)
 - [Задание 2. BPMN-диаграммы](task2-bpmn) — `task2-bpmn/`
   - [Заметки по BPMN](task2-bpmn/notes_bpmn.md)
   - [Описание](task2-bpmn/description.md)
